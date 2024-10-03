@@ -9,47 +9,47 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Pachai Nirame",
-    name: "Hariharan & Clinton",
+    title: "Unaale unaale",
+    name: "Karthik, Krishh",
     source:
-      "songs/song8.mp3",
+      "song3.mp3",
   },
   {
     title: "Abhi Mujh Mein Kahin",
     name: "Ajay-Atul and Sonu Nigam",
     source:
-      "songs/song10.mp3",
+      "song10.mp3",
   },
   {
     title: "Aaasa kooda",
     name: "Sai Abhyankkar and Sai Smriti",
     source:
-      "songs/song9.mp3",
+      "song9.mp3",
   },
   {
     title: "Pachai Nirame",
     name: "Hariharan & Clinton",
     source:
-      "songs/Song8.mp3",
+      "Song8.mp3",
   },
   {
     title: "Mitwa",
     name: "Shankar Mahadevan",
     source:
-      "songs/Song2.mp3",
+      "Song2.mp3",
   },
 
   {
     title: "Kanmani Ambodu",
     name: "Kamal Haasan and S. Janaki",
     source:
-      "songs/Song1.mp3",
+      "Song1.mp3",
   },
   {
-    title: "Unnale unnale",
-    name: "Karthik, Krishh",
+    title: "Snowman",
+    name: "sia",
     source:
-      "songs/Unnaale-unnaale.mp3",
+      "song4.mp3",
   },
 ];
 
